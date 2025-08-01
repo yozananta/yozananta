@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Folks! I'm Yoza Nanta 👋
 
 <!--
 **yozananta/yozananta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 This is where I showcase the projects I've worked on, including personal, academic, and freelance works.
+- 🌱 I’m currently learning advanced Laravel development, JavaScript for web applications.
+- 👯 I’m looking to collaborate on web development projects, especially those related to cultural, creative, or social impact sectors.
+- 📫 How to reach me: **yozananta@gmail.com**
+- ⚡ Fun fact: I also enjoy composing music as Wavegoose.
