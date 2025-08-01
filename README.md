@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/yozananta/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/yozananta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -27,7 +24,7 @@
 
 ###
 
-<p align="left">🔭 This is where I showcase the projects I've worked on, including personal, academic, and freelance works.<br>🌱 I’m currently learning advanced Laravel development, JavaScript for web applications.<br>👯 I’m looking to collaborate on web development projects, especially those related to cultural, creative, or social impact sectors.<br>⚡ Fun fact: I also enjoy composing music as wavegoose.</p>
+<p align="left">🔭 This is where I showcase the projects I've worked on, including personal, academic, and freelance works.<br>🌱 I’m currently learning advanced Laravel development, JavaScript for web applications.<br>👯 I’m looking to collaborate on web development projects, especially those related to cultural, creative, or social impact sectors.<br>- 📫 How to reach me: yozananta@gmail.com<br>⚡ Fun fact: I also enjoy composing music as wavegoose.</p>
 
 ###
 
