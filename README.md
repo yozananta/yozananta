@@ -48,6 +48,10 @@
 
 ###
 
+###
+<h3 align="left">Play game with me</h3>
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yozananta/yozananta/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yozananta/yozananta/output/pacman-contribution-graph.svg">
