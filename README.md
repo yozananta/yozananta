@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🔭 This is where I showcase the projects I've worked on, including personal, academic, and freelance works.<br>🌱 I’m currently learning advanced Laravel development, JavaScript for web applications.<br>👯 I’m looking to collaborate on web development projects, especially those related to cultural, creative, or social impact sectors.<br>📫 How to reach me: yozananta@gmail.com<br>⚡ Fun fact: I also enjoy composing music as wavegoose.</p>
+<p align="left">I mostly spend my time behind the scenes: figuring out how complex business workflows actually work, designing the database models around them, and writing backend services that hold up under real usage.</p>
 
 ###
 
