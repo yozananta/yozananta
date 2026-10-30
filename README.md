@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I mostly spend my time behind the scenes: figuring out how complex business workflows actually work, designing the database models around them, and writing backend services that hold up under real usage.</p>
+<p align="left">Hi, I'm Yoza - a software developer in Jakarta with a background in Information Systems. I mostly spend my time behind the scenes: figuring out how complex business workflows actually work, designing the database models around them, and writing backend services that hold up under real usage.</p>
 
 ###
 
