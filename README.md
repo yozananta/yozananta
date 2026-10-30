@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Hi, Folks! I'm Yoza👋</h1>
+<h1 align="center">Hi, Folks!</h1>
 
 ###
 
